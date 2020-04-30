@@ -1,0 +1,3 @@
+First time using GIT
+Should be fun
+directions are clear
